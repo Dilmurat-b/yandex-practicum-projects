@@ -13,6 +13,6 @@ Here are 5 tasks for training models on servers with GPU.
   * Adam optimization algorithm;
   * convolutional networks for fruit classification;
   * ResNET in Keras
-3. Individual project ([age_detection]):
+3. Individual project (Age detection[age_detection]):
   * model training
 
